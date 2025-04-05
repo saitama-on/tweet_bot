@@ -7,3 +7,4 @@ requests-html==0.10.0
 aiohttp
 flask
 lxml_html_clean
+nest_asyncio
