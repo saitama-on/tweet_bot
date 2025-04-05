@@ -1,8 +1,6 @@
 import os
 import time
 import schedule
-import tweepy
-from dotenv import load_dotenv
 import requests
 from bs4 import BeautifulSoup
 from PIL import Image
