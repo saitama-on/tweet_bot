@@ -1,0 +1,8 @@
+python-dotenv==1.0.0
+schedule==1.2.0
+beautifulsoup4==4.12.2
+requests==2.31.0
+Pillow==10.0.0
+requests-html==0.10.0
+aiohttp
+flask
